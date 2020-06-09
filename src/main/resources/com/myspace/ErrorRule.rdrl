@@ -4,6 +4,7 @@ import java.lang.Number;
 
 rule "ErrorRule"
 	dialect "mvel"
+	ruleflow-group "error"
 	when
 	then
 end

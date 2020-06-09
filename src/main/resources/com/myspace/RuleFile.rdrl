@@ -1,0 +1,10 @@
+package com.myspace;
+
+import java.lang.Number;
+
+rule "RuleFile"
+	dialect "mvel"
+	ruleflow-group "GroupNumberOne"
+	when
+	then
+end

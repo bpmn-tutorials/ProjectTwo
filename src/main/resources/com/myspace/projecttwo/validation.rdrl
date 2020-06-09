@@ -1,0 +1,9 @@
+package com.myspace.projecttwo;
+
+import java.lang.Number;
+
+rule "validation"
+	dialect "mvel"
+	when
+	then
+end

@@ -1,0 +1,9 @@
+package com.myspace;
+
+import java.lang.Number;
+
+rule "ErrorRule"
+	dialect "mvel"
+	when
+	then
+end
